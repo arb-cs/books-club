@@ -1,6 +1,13 @@
-pip==26.2.1
-pytest==9.1.1
-allure-pytest==2.16.1
-allure-python-commons==2.16.1
+pip==26.3
+pytest==9.2.0
 requests==2.34.2
 jsonschema==4.26.0
+pydantic==2.14.2
+pydantic-settings==2.16.2
+allure-pytest==2.16.2
+allure-python-commons==2.16.2
+faker==40.54.0
+email-validator==2.3.0
+pre-commit==4.7.0
+black==26.10.1
+ruff==0.17.5
